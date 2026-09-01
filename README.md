@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Lavanya Karthikeyan</h1>
 
 <h3 align="center">
-Software Developer | Java | Spring Boot | Python | SQL | Machine Learning
+Software Developer | Java | Spring Boot | Python | SQL
 </h3>
 
 <p align="center">
   <a href="https://github.com/lavanya1304-tech">
-    <img src="https://img.shields.io/badge/GitHub-lavanya1304--tech-181717?style=for-the-badge&logo=github" />
+    <img src="https://komarev.com/ghpvc/?username=lavanya1304-tech&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
 </p>
 
@@ -14,15 +14,15 @@ Software Developer | Java | Spring Boot | Python | SQL | Machine Learning
 
 ## 👩‍💻 About Me
 
-🎓 Computer Science Engineering graduate passionate about software development and problem solving.
+🎓 Computer Science Engineering graduate with a strong interest in software development and problem solving.
 
-💻 Interested in **Java Backend Development, Spring Boot, REST APIs, Python, SQL, Machine Learning and Full-Stack Development**.
+💻 Interested in **Java, Spring Boot, Backend Development, REST APIs, Python, SQL and Machine Learning**.
 
-🚀 I enjoy building practical applications, solving coding problems and continuously improving my technical skills.
+🧩 I regularly practice programming problems through **KodNest, LeetCode and Striver's A2Z DSA Sheet** to strengthen my Data Structures & Algorithms skills.
 
-🌱 Currently strengthening my knowledge in **Java, Spring Boot, Data Structures & Algorithms, SQL and Backend Development**.
+🚀 I enjoy building practical applications, learning new technologies and improving my coding skills through consistent practice.
 
-🎯 Open to opportunities as a **Software Engineer, Java Developer, Backend Developer or Software Developer**.
+🎯 Currently looking for opportunities as a **Software Engineer, Java Developer, Backend Developer or Software Developer**.
 
 ---
 
@@ -40,7 +40,7 @@ Software Developer | Java | Spring Boot | Python | SQL | Machine Learning
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
 
@@ -78,7 +78,7 @@ Software Developer | Java | Spring Boot | Python | SQL | Machine Learning
 
 ### 💻 Java Programming & Problem Solving
 
-A collection of Java programs and coding practice covering fundamental programming concepts, data structures and algorithms.
+A collection of Java programs and coding practice covering programming fundamentals, problem solving, data structures and algorithms.
 
 **Focus Areas:**
 
@@ -94,28 +94,29 @@ A collection of Java programs and coding practice covering fundamental programmi
 
 ---
 
-## 🧩 Problem Solving
+## 🧩 Problem Solving & DSA Practice
 
-I regularly practice programming problems to improve my:
+I regularly solve coding problems to improve my logical thinking, algorithmic skills and understanding of Data Structures & Algorithms.
 
-- Data Structures & Algorithms
-- Logical Thinking
-- Problem Solving
-- Time & Space Complexity
-- Coding Efficiency
+### 📚 Practice Resources
 
-### 💡 Coding Platforms
+- 🟠 [LeetCode](YOUR_LEETCODE_PROFILE_LINK) — Coding problem practice
+- 🟣 [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-dsa-course-sheet-2/) — Structured DSA roadmap
+- 🟢 [GeeksforGeeks](YOUR_GFG_PROFILE_LINK) — Programming and DSA practice
+- 🔵 [HackerRank](YOUR_HACKERRANK_PROFILE_LINK) — Coding practice
 
-- 🟠 LeetCode
-- 🟣 KodNest
-- 🟢 takeuforward
+### 🏫 Learning & Practice
+
+- KodNest — Application-based coding and problem-solving practice
+- Striver's A2Z DSA Sheet — Structured DSA preparation
+- LeetCode — Algorithmic problem solving
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lavanya1304-tech&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lavanya1304-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanya1304-tech&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
@@ -156,7 +157,7 @@ I regularly practice programming problems to improve my:
 - Database Integration
 - Microservices Fundamentals
 
-### 🧩 Problem Solving
+### 🧩 Data Structures & Algorithms
 
 - Arrays
 - Strings
@@ -164,6 +165,8 @@ I regularly practice programming problems to improve my:
 - Stacks & Queues
 - Recursion
 - Searching & Sorting
+- Binary Trees
+- Graphs
 - Dynamic Programming
 
 ### 🗄️ Database
@@ -175,41 +178,41 @@ I regularly practice programming problems to improve my:
 
 ---
 
-## 🏆 Career Goals
+## 🎯 Career Goals
 
-🎯 Become a strong Software Engineer
-
-☕ Build expertise in Java and Spring Boot
-
-💻 Develop production-ready backend applications
-
-🧠 Strengthen Data Structures & Algorithms
-
-🤖 Explore AI/ML and modern software technologies
-
-🌍 Contribute to meaningful software projects
+- Build strong expertise in Java and Spring Boot
+- Develop scalable and maintainable backend applications
+- Strengthen Data Structures & Algorithms
+- Improve problem-solving and coding skills
+- Learn modern software engineering practices
+- Explore AI/ML and emerging technologies
+- Contribute to meaningful software projects
 
 ---
 
-## 📌 What I'm Looking For
+## 💼 Open To Opportunities
 
 I am currently looking for opportunities where I can:
 
-- Build real-world software applications
-- Work with experienced development teams
-- Apply Java and backend development skills
-- Improve my problem-solving abilities
-- Learn modern software engineering practices
-- Contribute to impactful projects
+- 💻 Build real-world software applications
+- ☕ Work with Java and Spring Boot
+- 🔧 Develop backend services and REST APIs
+- 🧩 Apply problem-solving and DSA skills
+- 📚 Learn from experienced development teams
+- 🚀 Contribute to impactful projects
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/lavanya1304-tech">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_PROFILE_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
