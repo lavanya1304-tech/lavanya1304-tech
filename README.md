@@ -100,9 +100,9 @@ I regularly solve coding problems to improve my logical thinking, algorithmic sk
 
 ### 📚 Practice Resources
 
-- 🟠 [LeetCode](YOUR_LEETCODE_PROFILE_LINK) — Coding problem practice
-- 🟣 [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-dsa-course-sheet-2/) — Structured DSA roadmap
-- 🟢 [KodNest](https://kodnest.com/) — Application-based coding and problem-solving practice
+- 🟠 [LeetCode]() — Coding problem practice
+- 🟣 [Striver's A2Z DSA Sheet](https://takeuforward.org/profile/lavanyak) — Structured DSA roadmap
+- 🟢 [KodNest]() — Application-based coding and problem-solving practice
 ### 🏫 Learning & Practice
 
 - KodNest — Application-based coding and problem-solving practice
